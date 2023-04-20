@@ -7,8 +7,8 @@
 <br>
 <br>
 <br>
-🔥  Web Developer and focus improving skills<br>
-💻  I’m currently learning ReactJS, Node.JS and TypeScrypt<br>
+🔥  Full Stack Engineer and focus improving skills<br>
+💻  I’m currently studing Deno <br>
 💬  Ask me about JavaScript, React and Node.Js<br>
 ⚡ Passionate about technology and innovation
 <br>
