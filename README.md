@@ -8,9 +8,9 @@
 <br>
 <br>
 🔥  Full Stack Engineer and focus improving skills<br>
-💻  I’m currently studing Deno <br>
 💬  Ask me about JavaScript, React and Node.Js<br>
-⚡ Passionate about technology and innovation
+⚡ Passionate about technology and innovation<br>
+💻  I’m currently studing Deno  <br>
 <br>
 <br>
 
