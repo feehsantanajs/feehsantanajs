@@ -9,8 +9,8 @@
 <br>
 🔥  Full Stack Engineer and focus improving skills<br>
 💬  Ask me about JavaScript, React and Node.Js<br>
-⚡ Passionate about technology and innovation<br>
-💻  I’m currently studing Deno  <br>
+⚡  Passionate about technology and innovation<br>
+💻  I’m currently working at Spott
 <br>
 <br>
 
