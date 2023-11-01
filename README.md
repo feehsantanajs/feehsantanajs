@@ -21,13 +21,16 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50em" height="50em" alt="javascript" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="50em" height="50em" alt="javascript" />&nbsp;
+
   <img src="https://cdn.worldvectorlogo.com/logos/vtex-1.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" width="50em" height="50em" alt="reactjs" />&nbsp;
+  
 </div>
 
 <br >
