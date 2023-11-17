@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/feelipesantana/feelipesantana/master/banner.png" width="100%">
 <h1>Hi everyone, I'm Felipe Santana 👋 </h1>
 <br>
-🔥  Full Stack Engineer and focus improving skills<br>
+🔥  Full-Stack Engineer that loves Frontend<br>
 💬  Ask me about JavaScript, React and Node.Js<br>
 ⚡  Passionate about technology and innovation<br>
-🔭 I’m currently working at Spott how Frontend Engineer with Typescript, ReactJs, React Native, Styled Components.
+🔭 I'm currently on focus studying JAVA.
 
 <br>
 
