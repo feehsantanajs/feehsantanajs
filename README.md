@@ -5,7 +5,7 @@
 🔥  Full-Stack Engineer that loves Frontend<br>
 💬  Ask me about JavaScript, React and Node.Js<br>
 ⚡  Passionate about technology and innovation<br>
-🔭 I'm currently on focus studying JAVA.
+🔭 I'm currently on focus of studying Python, AI, Data Science and Machine Learning. 
 
 <br>
 
