@@ -3,10 +3,9 @@
 <h1>Hi everyone, I'm Felipe Santana 👋 </h1>
 <br>
 🔥  Full-Stack Engineer that loves Frontend<br>
-💬  Ask me about JavaScript, React and Node.Js<br>
+💬  Ask me about JavaScript, React and Node.js<br>
 ⚡  Passionate about technology and innovation<br>
-🔭 I'm currently on focus of studying Python, AI, Data Science 
-  and Machine Learning. 
+🔭 Focus on studying Python, AI, Data Science and Machine Learning. 
 
 <br>
 
