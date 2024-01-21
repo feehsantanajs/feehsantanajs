@@ -9,7 +9,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Stacks
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50em" height="50em" alt="typescript" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50em" height="50em" alt="javascript" />&nbsp;
